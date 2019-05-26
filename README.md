@@ -9,7 +9,7 @@ A repository containing resources about unity, set up, and using unity with c#
 
 ## Important Points:
 
-- Unity is a game engine, but you can make line of business apps for it
+- Unity is a game engine, but you can also make line of business apps for it
 - Uses C# or Javascript for the scripting languages
 - Can be used to make 2D or 3D games
 - Can be used to make Mixed Reality (MR) and HoloLens Apps
@@ -39,6 +39,10 @@ It is also useful if you wish to install extra build options for a specific unit
 Note:
 
 Not all versions of Unity may be found in Unity Hub. Refer to the archive in the previous link.
+
+# Tutorials
+[From Unity's Website](https://learn.unity.com/course/unity-basics) 
+
 
 # About
 Brian Fong / [@brianfong96](https://brianfong96.github.io)
